@@ -28,3 +28,7 @@ you will require an ".env" file, formatted as
 GOOGLEAI_API_KEY= *your api key*
 
 *your api key* should be replaced by your google API key provided
+
+For getting a google api, follow the instructions here
+[
+https://developers.google.com/maps/documentation/embed/get-api-key](https://ai.google.dev/gemini-api/docs/quickstart?lang=python)
